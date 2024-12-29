@@ -1,0 +1,16 @@
+
+{
+  "name": "UnlockPDF",
+  "version": "1.0.0",
+  "description": "A PowerShell script for unlocking PDF files on Windows.",
+  "author": "Jgooch",
+  "license": "MIT",
+  "platforms": ["Windows"],
+  "languages": ["PowerShell"],
+  "dependencies": [
+    {
+      "name": "Java",
+      "version": ">=8"
+    }
+  ]
+}
